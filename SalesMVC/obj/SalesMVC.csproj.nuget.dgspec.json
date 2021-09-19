@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj": {}
+    "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj": {
+    "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
+        "projectUniqueName": "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
         "projectName": "SalesMVC",
-        "projectPath": "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
+        "projectPath": "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
         "packagesPath": "C:\\Users\\Fartec\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\obj\\",
+        "outputPath": "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

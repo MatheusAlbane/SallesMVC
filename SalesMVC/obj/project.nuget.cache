@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mpbYbYdqTRLhCZv6JATAQO8aFSiYFeGWElqgEWTlqUbnvVZoiz58fT70lZNfcQObhod6eqs5j4rnWILqEQZuIQ==",
+  "dgSpecHash": "bOZ8AJuxFwKfVPtDKmrDSww8VCjmqLC3hzILAsi4zw9W5SvvI8kmDz7ZkLghgB+ZPVFrsavNnY97SEbeTGCD4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fartec\\Desktop\\C#\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
+  "projectFilePath": "C:\\ProjetoMVC\\SalesMVC\\SalesMVC\\SalesMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fartec\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\Fartec\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",
