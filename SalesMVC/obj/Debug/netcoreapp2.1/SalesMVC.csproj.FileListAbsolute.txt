@@ -47,7 +47,6 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\SalesMVC.Views.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csprojAssemblyReference.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.AssemblyInfoInputs.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.AssemblyInfo.cs
-C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.CoreCompileInputs.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.RazorAssemblyInfo.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.RazorAssemblyInfo.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.TagHelpers.input.cache
@@ -70,3 +69,5 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.genruntimeconfig.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.CopyComplete
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.CoreCompileInputs.cache
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departaments\Index.cshtml.g.cs

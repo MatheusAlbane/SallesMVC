@@ -19,6 +19,7 @@ namespace SalesMVC.Controllers
         {
             ViewData["Message"] = "SallesWebMVC from c# course.";
             ViewData["Aluno"] = "Matheus Albane";
+            ViewData["Teste"] = "TEste";
 
             return View();
         }
@@ -38,7 +39,7 @@ namespace SalesMVC.Controllers
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
-            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+            return View(new SalesMVC.Models.ViewModels.ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
     }
 }
