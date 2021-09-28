@@ -74,3 +74,5 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.genruntimeconfig.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.CopyComplete
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.AssemblyReference.cache
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
