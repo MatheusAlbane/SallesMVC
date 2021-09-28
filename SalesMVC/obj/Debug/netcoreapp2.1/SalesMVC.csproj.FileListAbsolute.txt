@@ -43,7 +43,6 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\SalesMVC.Views.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\SalesMVC.Views.pdb
-C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.AssemblyReference.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.AssemblyInfoInputs.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.AssemblyInfo.cs
