@@ -1,8 +1,5 @@
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\appsettings.Development.json
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\appsettings.json
-C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\Properties\launchSettings.json
-C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\Properties\serviceDependencies.json
-C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\Properties\serviceDependencies.local.json
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.deps.json
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.runtimeconfig.json
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.runtimeconfig.dev.json
@@ -10,7 +7,6 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.Views.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Release\netcoreapp2.1\SalesMVC.Views.pdb
-C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.csprojAssemblyReference.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.AssemblyInfoInputs.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.AssemblyInfo.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.csproj.CoreCompileInputs.cache
@@ -41,3 +37,6 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.genruntimeconfig.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.csproj.CopyComplete
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\SalesMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Release\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs

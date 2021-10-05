@@ -35,5 +35,19 @@ namespace SalesMVC.Controllers
             _sellerService.Insert(seller);
             return RedirectToAction(nameof(Index));
         }
+
+        //public IActionResult Delete()
+        //{
+        //    return View();
+        //}
+
+        //[HttpPost]
+        //[ValidateAntiForgeryToken]
+        //public IActionResult Delete(Seller seller)
+        //{
+        //    _sellerService.Delete(seller);
+        //    return RedirectToAction(nameof(Index));
+        //}
+
     }
 }

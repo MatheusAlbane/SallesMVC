@@ -61,6 +61,8 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.c
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
@@ -74,6 +76,6 @@ C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.dll
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.pdb
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.genruntimeconfig.cache
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.CopyComplete
-C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
-C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
+C:\ProjetoMVC\SalesMVC\SalesMVC\bin\Debug\netcoreapp2.1\Properties\old-launchSettings.json
+C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Delete.cshtml.g.cs
 C:\ProjetoMVC\SalesMVC\SalesMVC\obj\Debug\netcoreapp2.1\SalesMVC.csproj.AssemblyReference.cache

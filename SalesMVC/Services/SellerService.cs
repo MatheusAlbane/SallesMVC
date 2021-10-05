@@ -23,8 +23,15 @@ namespace SalesMVC.Services
 
         public void Insert(Seller obj)
         {
+            obj.Departaments = _context.Departament.First();
             _context.Add(obj);
             _context.SaveChanges();
         }
+
+        //public void Delete(Seller obj)
+        //{
+        //    _context.Remove(obj);
+        //    _context.SaveChanges();
+        //}
     }
 }
